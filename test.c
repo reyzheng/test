@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("hello main\n");
+  printf("hello stable\n");
   return 0;
 }
